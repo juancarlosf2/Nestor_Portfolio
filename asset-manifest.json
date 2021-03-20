@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Nestor_Portfolio/static/css/main.908aa414.chunk.css",
+    "main.js": "/Nestor_Portfolio/static/js/main.ba25ff06.chunk.js",
+    "main.js.map": "/Nestor_Portfolio/static/js/main.ba25ff06.chunk.js.map",
+    "runtime-main.js": "/Nestor_Portfolio/static/js/runtime-main.96762d0f.js",
+    "runtime-main.js.map": "/Nestor_Portfolio/static/js/runtime-main.96762d0f.js.map",
+    "static/js/2.c1902a66.chunk.js": "/Nestor_Portfolio/static/js/2.c1902a66.chunk.js",
+    "static/js/2.c1902a66.chunk.js.map": "/Nestor_Portfolio/static/js/2.c1902a66.chunk.js.map",
+    "index.html": "/Nestor_Portfolio/index.html",
+    "static/css/main.908aa414.chunk.css.map": "/Nestor_Portfolio/static/css/main.908aa414.chunk.css.map",
+    "static/js/2.c1902a66.chunk.js.LICENSE.txt": "/Nestor_Portfolio/static/js/2.c1902a66.chunk.js.LICENSE.txt",
+    "static/media/01 1.32b4b678.svg": "/Nestor_Portfolio/static/media/01 1.32b4b678.svg",
+    "static/media/02 1.9d4179cb.svg": "/Nestor_Portfolio/static/media/02 1.9d4179cb.svg",
+    "static/media/03 1.3c893ecd.svg": "/Nestor_Portfolio/static/media/03 1.3c893ecd.svg",
+    "static/media/08 1.9bd1d84c.svg": "/Nestor_Portfolio/static/media/08 1.9bd1d84c.svg",
+    "static/media/09 1.23adc436.svg": "/Nestor_Portfolio/static/media/09 1.23adc436.svg",
+    "static/media/mail-bulk.a2c1dd1f.svg": "/Nestor_Portfolio/static/media/mail-bulk.a2c1dd1f.svg",
+    "static/media/methodologypic.eabd33f9.svg": "/Nestor_Portfolio/static/media/methodologypic.eabd33f9.svg",
+    "static/media/nestor-logo.ad67bb1b.svg": "/Nestor_Portfolio/static/media/nestor-logo.ad67bb1b.svg",
+    "static/media/profile-pic-450x1000.b4feccf1.jpg": "/Nestor_Portfolio/static/media/profile-pic-450x1000.b4feccf1.jpg",
+    "static/media/profile-pic-450x605.f3a47299.jpg": "/Nestor_Portfolio/static/media/profile-pic-450x605.f3a47299.jpg",
+    "static/media/profile-pic-450x706.0a654168.jpg": "/Nestor_Portfolio/static/media/profile-pic-450x706.0a654168.jpg",
+    "static/media/profile-pic-450x857.8edd0e51.jpg": "/Nestor_Portfolio/static/media/profile-pic-450x857.8edd0e51.jpg",
+    "static/media/profileSecImg.c233cc58.svg": "/Nestor_Portfolio/static/media/profileSecImg.c233cc58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96762d0f.js",
+    "static/js/2.c1902a66.chunk.js",
+    "static/css/main.908aa414.chunk.css",
+    "static/js/main.ba25ff06.chunk.js"
+  ]
+}
