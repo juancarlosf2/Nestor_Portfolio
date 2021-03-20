@@ -20,7 +20,6 @@ import {
   useBreakpointValue,
   useDisclosure,
   useMediaQuery,
-  VStack,
 } from "@chakra-ui/react";
 
 import images from "../utils/images";
@@ -86,11 +85,11 @@ function Navbar() {
         px={usePaddingXVariant}
         py={4}
       >
-        <VStack spacing={1} align="flex-start">
           <Box
             as={motion.div}
             whileTap={{ scale: 0.9 }}
             onClick={() => scroll.scrollToTop()}
+            alignSelf="center"
             _hover={{
               cursor: "pointer",
             }}
@@ -99,32 +98,9 @@ function Navbar() {
               src={images.logo}
               w={["200px", "200px", "200px", "240px"]}
               h="60px"
+              alignSelf="center"
             />
           </Box>
-          {/* <Heading
-            as="h3"
-            lineHeight="114.5%"
-            fontSize="32px"
-            fontWeight="regular"
-          >
-            Néstor{" "}
-            <Heading as="span" color="primary" fontWeight="semibold">
-              Cordero
-            </Heading>
-          </Heading>
-          <Heading as="h3" fontSize="17px" fontWeight="regular">
-            Junior{" "}
-            <Heading
-              as="span"
-              color="primary"
-              fontSize="17px"
-              fontWeight="semibold"
-            >
-              UI/UX
-            </Heading>{" "}
-            Designer
-          </Heading> */}
-        </VStack>
         <Spacer />
         {content}
       </Flex>
