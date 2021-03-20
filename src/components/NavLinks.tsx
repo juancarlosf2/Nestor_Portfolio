@@ -5,7 +5,6 @@ import { Link as ScrollLink } from "react-scroll";
 import "../styles/styles.css";
 import { Link as ChakraLink } from "@chakra-ui/react";
 import { BEHANCE_URL, LINKEDIN_URL } from "../utils/constants";
-import { Link as RouterLink } from "react-router-dom";
 
 const NavLinks = () => {
   return (
@@ -37,9 +36,6 @@ const NavLinks = () => {
       <Link href={BEHANCE_URL} target="_blank">
         Projects
       </Link>
-      <RouterLink to="resume">
-        <Link>Resume</Link>
-      </RouterLink>
       <ChakraLink href={LINKEDIN_URL} target="_blank">
         <CustomButton
           variant="outline"
