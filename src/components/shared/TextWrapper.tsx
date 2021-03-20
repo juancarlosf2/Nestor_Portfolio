@@ -3,7 +3,7 @@ import {
   Stack,
   StackProps,
   useBreakpointValue,
-  VStack,
+  
 } from "@chakra-ui/react";
 import { elementSpacingVariants, maxWVariants } from "../../utils/variants";
 
